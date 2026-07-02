@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "name": "Lối sống kiềm",
+      "slug": "loi-song-kiem",
+      "description": "Nước kiềm, thực phẩm lành mạnh, thói quen sống cân bằng và bền vững."
+    },
+    {
+      "name": "Nước & sức khỏe",
+      "slug": "nuoc-va-suc-khoe",
+      "description": "Kiến thức dễ hiểu về nước uống, nước sinh hoạt, lọc nước và chăm sóc gia đình."
+    },
+    {
+      "name": "Gia đình",
+      "slug": "gia-dinh",
+      "description": "Đồng hành cùng con, quan hệ gia đình và hành trình làm cha mẹ tỉnh thức."
+    },
+    {
+      "name": "Phụ nữ tuổi 40",
+      "slug": "phu-nu-40",
+      "description": "Sống khỏe, đẹp, chủ động, bản lĩnh và bình an ở giai đoạn trưởng thành."
+    },
+    {
+      "name": "Kinh doanh",
+      "slug": "kinh-doanh",
+      "description": "Bài học doanh nhân, lãnh đạo, xây dựng đội nhóm và phát triển thương hiệu."
+    },
+    {
+      "name": "Phát triển bản thân",
+      "slug": "phat-trien-ban-than",
+      "description": "Tư duy, kỷ luật, thể thao, học tập và hành trình trở thành phiên bản tốt hơn."
+    }
+  ],
+  "posts": [
+    {
+      "title": "Lối sống kiềm là gì? Cách bắt đầu đơn giản cho người bận rộn",
+      "slug": "loi-song-kiem-la-gi",
+      "description": "Lối sống kiềm là cách sống ưu tiên nước uống, thực phẩm và thói quen lành mạnh. Tìm hiểu cách bắt đầu đơn giản, dễ áp dụng.",
+      "category": "loi-song-kiem",
+      "categoryName": "Lối sống kiềm",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "6 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "lối sống kiềm",
+        "nước kiềm",
+        "ăn uống lành mạnh",
+        "sống khỏe"
+      ],
+      "featured": true,
+      "content": {
+        "intro": "Lối sống kiềm không nên được hiểu như một trào lưu cực đoan. Với Vân, đó là cách sống ưu tiên sự cân bằng: uống nước tốt hơn, ăn thực phẩm gần tự nhiên hơn, vận động đều hơn và lắng nghe cơ thể nhiều hơn.",
+        "sections": [
+          {
+            "heading": "1. Lối sống kiềm là gì?",
+            "body": [
+              "Lối sống kiềm là cách tổ chức thói quen hằng ngày theo hướng lành mạnh, ưu tiên thực phẩm tự nhiên, nước uống phù hợp, giấc ngủ, vận động và tinh thần tích cực.",
+              "Điều quan trọng không phải là làm mọi thứ hoàn hảo ngay từ đầu, mà là giảm dần các thói quen khiến cơ thể quá tải và tăng dần các lựa chọn giúp cơ thể nhẹ nhàng hơn."
+            ]
+          },
+          {
+            "heading": "2. Vì sao nhiều người quan tâm đến lối sống kiềm?",
+            "body": [
+              "Người hiện đại thường ăn nhanh, ngủ muộn, căng thẳng, uống ít nước và ít vận động. Khi những thói quen này kéo dài, cơ thể dễ rơi vào trạng thái mệt mỏi.",
+              "Lối sống kiềm giúp mỗi người quay lại với những nguyên tắc cơ bản: uống đủ nước, ăn thật, vận động đều, suy nghĩ tích cực và sống có nhịp điệu."
+            ]
+          },
+          {
+            "heading": "3. Bắt đầu như thế nào cho dễ?",
+            "body": [
+              "Hãy bắt đầu bằng ba việc nhỏ: uống nước đều trong ngày, thêm rau xanh vào mỗi bữa ăn và đi bộ hoặc vận động nhẹ ít nhất 20 phút.",
+              "Khi cơ thể quen dần, chị có thể điều chỉnh sâu hơn: giảm đồ chế biến sẵn, giảm đường, ưu tiên thực phẩm nguyên bản và xây dựng lịch ngủ đều đặn."
+            ]
+          }
+        ],
+        "conclusion": "Lối sống kiềm không phải là sự ép buộc. Đó là hành trình quay về với những điều tự nhiên, đều đặn và bền vững để sống khỏe hơn mỗi ngày."
+      }
+    },
+    {
+      "title": "Uống nước thế nào để cơ thể nhẹ nhàng hơn mỗi ngày?",
+      "slug": "uong-nuoc-the-nao-cho-dung",
+      "description": "Uống nước đúng cách giúp cơ thể duy trì nhịp sống ổn định hơn. Bài viết chia sẻ cách uống nước đơn giản, dễ áp dụng hằng ngày.",
+      "category": "nuoc-va-suc-khoe",
+      "categoryName": "Nước & sức khỏe",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "5 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "uống nước",
+        "nước và sức khỏe",
+        "nước kiềm",
+        "thói quen lành mạnh"
+      ],
+      "featured": true,
+      "content": {
+        "intro": "Rất nhiều người chỉ uống nước khi thấy khát. Nhưng cảm giác khát thường xuất hiện khi cơ thể đã cần nước từ trước đó. Tạo thói quen uống nước đều là một trong những cách chăm sóc bản thân đơn giản nhất.",
+        "sections": [
+          {
+            "heading": "1. Vì sao uống nước đều quan trọng?",
+            "body": [
+              "Nước tham gia vào nhiều hoạt động hằng ngày của cơ thể. Khi uống nước không đều, chúng ta dễ cảm thấy mệt, khô miệng, thiếu tập trung hoặc nhầm lẫn giữa đói và khát.",
+              "Một lịch uống nước hợp lý giúp cơ thể được hỗ trợ tốt hơn trong sinh hoạt, vận động và làm việc."
+            ]
+          },
+          {
+            "heading": "2. Nên uống nước vào thời điểm nào?",
+            "body": [
+              "Có thể bắt đầu ngày mới bằng một ly nước ấm. Trong ngày, nên chia nhỏ lượng nước, không đợi đến khi quá khát mới uống.",
+              "Trước khi tập thể thao, sau khi vận động hoặc khi làm việc trong môi trường máy lạnh, cơ thể cũng cần được bổ sung nước đều đặn."
+            ]
+          }
+        ],
+        "conclusion": "Uống nước đúng không phải là uống thật nhiều trong một lần, mà là uống đều, phù hợp với nhịp sống và nhu cầu của cơ thể."
+      }
+    },
+    {
+      "title": "Cha mẹ không đơn độc, đôi khi chỉ đang quá tải",
+      "slug": "cha-me-khong-don-doc-chi-dang-qua-tai",
+      "description": "Một góc nhìn dịu dàng dành cho cha mẹ đang áp lực trong hành trình đồng hành cùng con, đặc biệt ở tuổi dậy thì.",
+      "category": "gia-dinh",
+      "categoryName": "Gia đình",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "7 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "nuôi dạy con",
+        "cha mẹ",
+        "tuổi dậy thì",
+        "gia đình"
+      ],
+      "featured": true,
+      "content": {
+        "intro": "Có những ngày cha mẹ thấy mình nói mãi mà con không nghe, cố gắng rất nhiều mà vẫn thấy bất lực. Điều đó không có nghĩa là chị là một người mẹ chưa đủ tốt. Có thể chị chỉ đang quá tải.",
+        "sections": [
+          {
+            "heading": "1. Vì sao cha mẹ dễ quá tải?",
+            "body": [
+              "Cha mẹ vừa phải lo công việc, tài chính, gia đình, vừa phải học cách hiểu con trong một thời đại thay đổi rất nhanh.",
+              "Khi con bước vào tuổi dậy thì, nhu cầu độc lập tăng lên. Nếu cha mẹ vẫn dùng cách giao tiếp cũ, khoảng cách rất dễ xuất hiện."
+            ]
+          },
+          {
+            "heading": "2. Điều con cần không phải lúc nào cũng là lời khuyên",
+            "body": [
+              "Nhiều khi con không cần một bài giảng. Con cần cảm giác được lắng nghe, được tôn trọng và được cha mẹ nhìn nhận như một người đang lớn.",
+              "Một câu hỏi bình tĩnh có thể mở cửa cuộc trò chuyện tốt hơn rất nhiều so với một lời phán xét."
+            ]
+          }
+        ],
+        "conclusion": "Cha mẹ không cần hoàn hảo. Cha mẹ chỉ cần đủ tỉnh táo, đủ yêu thương và đủ khiêm nhường để học lại cách đi cùng con mỗi ngày."
+      }
+    }
+  ]
+}
