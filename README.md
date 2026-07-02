@@ -55,3 +55,4 @@ Sau khi lưu, Vercel sẽ tự deploy lại trong vài phút.
 - Không commit GITHUB_TOKEN lên GitHub.
 - Nên đặt mật khẩu mạnh.
 - Sau này có thể nâng cấp đăng nhập Google hoặc tài khoản riêng.
+Update deployment
