@@ -3,25 +3,41 @@ import { notFound } from "next/navigation";
 import { categories, getCategoryBySlug, getPostsByCategory } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 
-type Props = { params: { slug: string } };
+type Props = {
+  params: Promise<{ slug: string }>;
+};
 
 export function generateStaticParams() {
-  return categories.map((category) => ({ slug: category.slug }));
+  return categories.map((category) => ({
+    slug: category.slug
+  }));
 }
 
-export function generateMetadata({ params }: Props): Metadata {
-  const category = getCategoryBySlug(params.slug);
-  if (!category) return {};
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const category = getCategoryBySlug(slug);
+
+  if (!category) {
+    return {
+      title: "Không tìm thấy chuyên mục"
+    };
+  }
+
   return {
     title: category.name,
     description: category.description,
-    alternates: { canonical: `/chuyen-muc/${category.slug}` }
+    alternates: {
+      canonical: `/chuyen-muc/${category.slug}`
+    }
   };
 }
 
-export default function CategoryPage({ params }: Props) {
-  const category = getCategoryBySlug(params.slug);
+export default async function CategoryPage({ params }: Props) {
+  const { slug } = await params;
+  const category = getCategoryBySlug(slug);
+
   if (!category) return notFound();
+
   const categoryPosts = getPostsByCategory(category.slug);
 
   return (
@@ -30,8 +46,11 @@ export default function CategoryPage({ params }: Props) {
         <span className="kicker">Chuyên mục</span>
         <h1>{category.name}</h1>
         <p className="lead">{category.description}</p>
+
         <div className="grid">
-          {categoryPosts.map((post) => <PostCard post={post} key={post.slug} />)}
+          {categoryPosts.map((post) => (
+            <PostCard post={post} key={post.slug} />
+          ))}
         </div>
       </div>
     </main>
