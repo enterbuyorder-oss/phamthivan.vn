@@ -33,6 +33,150 @@
   ],
   "posts": [
     {
+      "title": "Bài viết mới",
+      "slug": "bai-viet-moi-4",
+      "description": "Mô tả SEO ngắn gọn cho bài viết mới.",
+      "category": "loi-song-kiem",
+      "categoryName": "Lối sống kiềm",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "5 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "từ khóa chính",
+        "từ khóa phụ"
+      ],
+      "featured": false,
+      "content": {
+        "intro": "Viết đoạn mở bài tại đây.",
+        "sections": [
+          {
+            "heading": "1. Ý chính đầu tiên",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          },
+          {
+            "heading": "2. Ý chính thứ hai",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          }
+        ],
+        "conclusion": "Viết kết luận tại đây."
+      }
+    },
+    {
+      "title": "Bài viết mới",
+      "slug": "bai-viet-moi-3",
+      "description": "Mô tả SEO ngắn gọn cho bài viết mới.",
+      "category": "loi-song-kiem",
+      "categoryName": "Lối sống kiềm",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "5 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "từ khóa chính",
+        "từ khóa phụ"
+      ],
+      "featured": false,
+      "content": {
+        "intro": "Viết đoạn mở bài tại đây.",
+        "sections": [
+          {
+            "heading": "1. Ý chính đầu tiên",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          },
+          {
+            "heading": "2. Ý chính thứ hai",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          }
+        ],
+        "conclusion": "Viết kết luận tại đây."
+      }
+    },
+    {
+      "title": "Bài viết mới",
+      "slug": "bai-viet-moi-2",
+      "description": "Mô tả SEO ngắn gọn cho bài viết mới.",
+      "category": "loi-song-kiem",
+      "categoryName": "Lối sống kiềm",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "5 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "từ khóa chính",
+        "từ khóa phụ"
+      ],
+      "featured": false,
+      "content": {
+        "intro": "Viết đoạn mở bài tại đây.",
+        "sections": [
+          {
+            "heading": "1. Ý chính đầu tiên",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          },
+          {
+            "heading": "2. Ý chính thứ hai",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          }
+        ],
+        "conclusion": "Viết kết luận tại đây."
+      }
+    },
+    {
+      "title": "Bài viết mới",
+      "slug": "bai-viet-moi",
+      "description": "Mô tả SEO ngắn gọn cho bài viết mới.",
+      "category": "loi-song-kiem",
+      "categoryName": "Lối sống kiềm",
+      "date": "2026-07-02",
+      "updated": "2026-07-02",
+      "readingTime": "5 phút đọc",
+      "author": "Phạm Thị Vân",
+      "tags": [
+        "từ khóa chính",
+        "từ khóa phụ"
+      ],
+      "featured": false,
+      "content": {
+        "intro": "Viết đoạn mở bài tại đây.",
+        "sections": [
+          {
+            "heading": "1. Ý chính đầu tiên",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          },
+          {
+            "heading": "2. Ý chính thứ hai",
+            "body": [
+              "Viết nội dung đoạn 1.",
+              "Viết nội dung đoạn 2."
+            ]
+          }
+        ],
+        "conclusion": "Viết kết luận tại đây."
+      }
+    },
+    {
       "title": "Lối sống kiềm là gì? Cách bắt đầu đơn giản cho người bận rộn",
       "slug": "loi-song-kiem-la-gi",
       "description": "Lối sống kiềm là cách sống ưu tiên nước uống, thực phẩm và thói quen lành mạnh. Tìm hiểu cách bắt đầu đơn giản, dễ áp dụng.",
